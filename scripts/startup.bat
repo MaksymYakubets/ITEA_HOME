@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.8.0_202\bin\java.exe" -jar C:\Users\pressM\homework\JavaFX11\target\JavaFX11-1.0-SNAPSHOT-jar-with-dependencies.jar
